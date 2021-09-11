@@ -1,0 +1,1 @@
+UPDATE `shopitems` SET `price` = 250 WHERE `shopitemid` = 3;

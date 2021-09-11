@@ -1,0 +1,1 @@
+INSERT INTO `drop_data`(`dropperid`, `itemid`, `chance`, `questid`) VALUES (40000, 4031802, 1000000, 1035);

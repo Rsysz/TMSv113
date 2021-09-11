@@ -1,0 +1,1 @@
+ALTER TABLE `characters` ADD COLUMN `subjob`  int(5) NOT NULL DEFAULT 0 AFTER `job`;
